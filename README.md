@@ -1,4 +1,4 @@
-# Sammy Kirathe - Personal Webpage
+# Merao Sounds - Personal Webpage
 
 This is a simple personal webpage for Sammy Kirathe, created using HTML and CSS. The webpage provides information about Sammy, including his professional background, interests, hobbies, and a link to his LinkedIn profile.
 
